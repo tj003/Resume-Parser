@@ -1,0 +1,10 @@
+nltk
+spacy
+pyresparser
+pandas
+python-dateutil
+datetime
+python-docx
+PyMuPDF
+openpyxl
+pdfminer.six
