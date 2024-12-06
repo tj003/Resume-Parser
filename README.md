@@ -1,4 +1,4 @@
-###Resume Parsing Project###
+Resume Parsing Project
 
 #Overview
 A powerful AI-driven tool designed to parse resumes and extract structured information efficiently. This repository provides an end-to-end implementation for extracting key details such as personal information, education, skills, work experience, and more, from resumes in various formats.
