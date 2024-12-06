@@ -1,6 +1,9 @@
-###Resume Parsing Project
+###Resume Parsing Project###
+
 #Overview
-This project is designed to automate the extraction of key information from resumes. The script can process multiple resumes from a specified input folder, extract relevant details such as name, contact information, skills, education, work experience, and more, and save the parsed data into an Excel file.
+A powerful AI-driven tool designed to parse resumes and extract structured information efficiently. This repository provides an end-to-end implementation for extracting key details such as personal information, education, skills, work experience, and more, from resumes in various formats.
+
+
 
 Features
 Bulk Resume Processing: Process multiple resumes in various formats (.pdf, .docx, .doc) from a specified folder.
@@ -12,11 +15,10 @@ Requirements
 Python 3.7 or later
 Required Python packages (install via pip):
 
-pip install spacy
-pip install pdfminer.six
-pip install PyPDF2
-pip install python-docx
-pip install textract
-pip install pandas
-pip install openpyxl
-pip install python-dateutil
+For contributions or queries, feel free to open an issue or submit a pull request.
+
+
+
+
+
+
